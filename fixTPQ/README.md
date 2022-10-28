@@ -19,3 +19,5 @@
 一応fixTPQ.batも置いておきますのでこちらにmidをD&Dすれば自分でコマンドライン叩かなくても使えるかも。
 
 ![fixTPQ](https://github.com/switchworks/MIDIData.py/blob/main/fixTPQ/fixTPQ.png?raw=true)
+
+このサンプル画像の場合は64で適切でした。(32/128等でも大きな支障は無いでしょう)
