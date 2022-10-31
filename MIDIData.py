@@ -1226,7 +1226,7 @@ MIDIEvent_GetParent.argtypes = (c_void_p,)
 #MIDIEvent_ToStringEx = MIDIData.MIDIEvent_ToStringExW
 #MIDIEvent_ToStringEx.restype = c_void_p
 #MIDIEvent_ToStringEx.argtypes = (c_void_p,)
-# イベンの内容トを文字列表現に変換 */
+# イベントの内容を文字列表現に変換 */
 #MIDIEvent_ToString = MIDIData.MIDIEvent_ToStringW
 #MIDIEvent_ToString.restype = c_void_p
 #MIDIEvent_ToString.argtypes = (c_void_p,)
